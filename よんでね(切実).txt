@@ -1,0 +1,27 @@
+Linuxでしか起動できないと思う
+多分
+
+0.chmodで[start.sh、start.py、blockout.py]に権限をあげる
+
+調べてもわからない等で困ったときに
+
+chmod a+x start.sh
+
+chmod a+x start.py
+
+chmod a+x blockout.py
+
+1.start.pyを実行してあげる(start.shは罠です!←は？)
+
+./start.py
+
+ゲームが実行されるはず
+
+注意!!
+息抜きで作ったものなので全然バグとかあります。
+ていうか見つかってます。
+明らかにバグだろ、これっていうのあれば公式Discordサーバーの質問チャンネルで教えてくれたらできる範囲で答えます。
+https://discord.gg/z35ZBrwDak
+
+ver.1.00
+配布を開始。

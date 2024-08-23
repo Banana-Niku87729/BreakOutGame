@@ -1,0 +1,4 @@
+title=ブロック崩し
+author=シンプルなブロック崩し
+api=1
+orientation=portrait
